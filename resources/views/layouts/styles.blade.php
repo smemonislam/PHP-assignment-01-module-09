@@ -1,5 +1,5 @@
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-<link rel="shortcut icon" href="{{ asset('assets/favicon.ico') }}">
+{{-- <link rel="shortcut icon" href="{{ asset('assets/favicon.ico') }}"> --}}
 
 <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
